@@ -35,7 +35,7 @@ Consideration: {
     Huginn's Gambit
 
     Consideration: {
-        // position: vec3, surface1: vec3, surface2: vec3, size: number (index: number)
+        // -- position: vec3, surface1: vec3, surface2: vec3, size: number (index: number)
 
         // Duplicate the size, we need it in both of our upcoming calculations.
         Gemini Decomposition
