@@ -1,0 +1,86 @@
+Consideration: {
+    // position: vec3, size: number, facing: vec3
+    Gemini Decomposition
+
+    Vector Disintegration
+    Rotation Gambit
+    Vector Exaltation
+    
+    Gemini Decomposition
+    Rotation Gambit
+    Division Distillation
+    // position: vec3, size: number, surface1: vec3, surface2: vec3
+    
+    Rotation Gambit
+    Gemini Decomposition
+    Numerical Reflection: 2
+    Power Distillation
+    // position: vec3, surface1: vec3, surface2: vec3, size: number, area: number
+    
+    Gemini Decomposition
+    Huginn's Gambit
+    Gemini Gambit
+    Muninn's Reflection
+    Flock's Gambit
+    // position: vec3, surface1: vec3, surface2: vec3, [size: number...]
+
+    // Store a loop index in the ravenmind
+    Numerical Reflection: 0
+    Huginn's Gambit
+
+    Consideration: {
+        // position: vec3, surface1: vec3, surface2: vec3, size: number (index: number)
+        Gemini Decomposition
+        // position: vec3, surface1: vec3, surface2: vec3, size: number, size: number (index: number)
+        
+        // Calculate the first offset
+        Gemini Decomposition
+        Numerical Reflection: 2
+        Division Distillation
+        Ceiling Purification
+        Jester's Gambit
+        // position: vec3, surface1: vec3, surface2: vec3, size: number, shift1: number, size: number (index: number)
+        Muninn's Reflection
+        Jester's Gambit
+        Modulus Distillation
+        Additive Distillation
+        // position: vec3, surface1: vec3, surface2: vec3, size: number, offset1: number (index: number)
+
+        Jester's Gambit
+
+        // Calculate the second
+        Gemini Decomposition
+        Numerical Reflection: 2
+        Division Distillation
+        Ceiling Purification
+        Jester's Gambit
+        Muninn's Reflection
+        Jester's Gambit
+        Division Distillation
+        Floor Purification
+        // Additive Distillation
+        Jester's Gambit
+        Subtractive Distillation
+        // position: vec3, surface1: vec3, surface2: vec3, offset1: number, offset2: number (index: number)
+
+        Rotation Gambit
+        Multiplicative Distillation
+        Rotation Gambit II
+        Multiplicative Distillation
+        // position: vec3, offset1: vec3, offset2: vec3
+        
+        Additive Distillation
+        Additive Distillation
+        Break Block
+
+        // Update the loop index
+        Muninn's Reflection
+        Numerical Reflection: 1
+        Additive Distillation
+        Huginn's Gambit
+    Consideration: }
+    Jester's Gambit
+    
+    Thoth's Gambit
+    // position: vec3, surface1: vec3, surface2: vec3, [junk: ?...]
+Consideration: }
