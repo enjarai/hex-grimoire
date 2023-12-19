@@ -37,13 +37,14 @@ Consideration: {
         Gemini Decomposition
         Numerical Reflection: 2
         Division Distillation
-        Ceiling Purification
+        Floor Purification
         Jester's Gambit
         // position: vec3, surface1: vec3, surface2: vec3, size: number, shift1: number, size: number (index: number)
         Muninn's Reflection
         Jester's Gambit
         Modulus Distillation
-        Additive Distillation
+        Jester's Gambit
+        Subtractive Distillation
         // position: vec3, surface1: vec3, surface2: vec3, size: number, offset1: number (index: number)
 
         Jester's Gambit
@@ -52,7 +53,7 @@ Consideration: {
         Gemini Decomposition
         Numerical Reflection: 2
         Division Distillation
-        Ceiling Purification
+        Floor Purification
         Jester's Gambit
         Muninn's Reflection
         Jester's Gambit
